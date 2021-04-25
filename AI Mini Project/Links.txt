@@ -1,0 +1,6 @@
+Code github for twilio 
+https://github.com/nikhilkumarsingh/WhatsAppBotTut/blob/master/code/echo_bot/app.py
+Youtube link for twilio
+https://www.youtube.com/watch?v=EeUdel2AJ5g
+Twilio whatsapp ip
+https://d774e377f000.ngrok.io/
